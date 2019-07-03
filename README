@@ -1,0 +1,9 @@
+This python project makes your csv File to Json tree.
+If there is duplicate in column, branches are made.
+
+How to test it?
+
+1. Open command.
+2. find directory of csvToJson.py (python file and csv file shold be recommended in a same directory)
+3. let "python csvToJson.py"
+4. "location_data.json" will be filled
